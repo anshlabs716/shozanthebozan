@@ -31,8 +31,7 @@
 
 <h2>A bit about my pc</h2>
 
- I use <code>Fedora Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. My system theme is Oxygen dark.
- My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
+ I use <code>Fedora Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
 
 
 <h2>Contact me</h2>
