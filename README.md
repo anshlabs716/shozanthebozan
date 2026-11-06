@@ -13,11 +13,11 @@
 
 <ul>
 
-<li>I’m currently learning <code>C</code> and <code>HTML</code></li>
+<li>I’m currently learning <code>Go</code> and <code>more of Linux</code></li>
 
 <li>I’m able to collaborate on simple projects, contact me</li>
 
-<li>I’m looking for help with learning <code>C</code> & <code>HTML</code></li>
+<li>I’m looking for help with learning <code>Go</code> (particularly motivation)</li>
 
 </ul><br><br>
 
@@ -26,7 +26,7 @@
 
 <h2>A bit about my pc</h2>
 
- I use <code>Fedora Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
+ I use <code>Nobara Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. I use the <code>lightdm</code> Display Manager. My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
 
 
 <h2>Contact me</h2>
