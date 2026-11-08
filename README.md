@@ -47,5 +47,4 @@ GPU: **Intel UHD 630** (integrated — no discrete GPU)
 
 
 ## 🤝 Check out my friends projects
-
-- [anshlabs716](https://github.com/anshlabs716)
+[anshlabs716](https://github.com/anshlabs716)
