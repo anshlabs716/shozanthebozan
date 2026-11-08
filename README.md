@@ -8,39 +8,21 @@
 
 ## About me
 
-<table>
-<tr>
-<td width="65%">
+<img src="hsv.gif" align="right" width="300" alt="hsv animation">
 
 **I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.**
 
-</td>
-<td width="35%" align="center">
-
-<img src="hsv.gif" width="280" alt="hsv animation">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ## What I'm doing, able to do, and need
 
-<table>
-<tr>
-<td width="65%">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300" alt="coding animation">
 
 - I'm currently learning **Go** and **more of Linux**
 - I'm able to collaborate on simple projects — contact me
 - I'm looking for help with learning **Go** (particularly motivation)
 
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="280" alt="coding animation">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ## A bit about my PC
 
