@@ -8,7 +8,7 @@
 
 ## About me
 
-<img src="hsv.gif" align="right" width="300" hspace="40" vspace="20" alt="hsv animation">
+<img src="hsv.gif" align="right" width="300" hspace="25" vspace="20" alt="hsv animation">
 
 **I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.**
 
@@ -46,11 +46,6 @@ GPU: **Intel UHD 630** (integrated — no discrete GPU)
 </p>
 ---
 
-## 🤝 Check out my friends & projects
+## 🤝 Check out my friends projects
 
-- [anshlabs716](https://github.com/anshlabs716) — my main repo
-- [@JaiGuyIsland](https://github.com/JaiGuyIsland) — tomahawkkat's projects
-- [@wizzomafizzo](https://github.com/wizzomafizzo) — Callan Barrett
-- [@Gurjas9090](https://github.com/Gurjas9090) — Gurjas
-- [@shozanthebozan](https://github.com/shozanthebozan) — my own repo
-
+- [anshlabs716](https://github.com/anshlabs716)
