@@ -44,7 +44,7 @@ GPU: **Intel UHD 630** (integrated — no discrete GPU)
 <p align="center">
   <code>kmoruihrdp@hotmail.com</code>
 </p>
----
+
 
 ## 🤝 Check out my friends projects
 
