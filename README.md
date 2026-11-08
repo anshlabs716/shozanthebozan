@@ -8,7 +8,7 @@
 
 ## About me
 
-<img src="hsv.gif" align="right" width="300" alt="hsv animation">
+<img src="hsv.gif" align="right" width="300" hspace="20" vspace="10" alt="hsv animation">
 
 **I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.**
 
@@ -16,7 +16,7 @@
 
 ## What I'm doing, able to do, and need
 
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300" alt="coding animation">
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300" hspace="20" vspace="10" alt="coding animation">
 
 - I'm currently learning **Go** and **more of Linux**
 - I'm able to collaborate on simple projects — contact me
