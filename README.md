@@ -8,7 +8,7 @@
 
 ## About me
 
-<img src="hsv.gif" align="right" width="300" hspace="30" vspace="15" alt="hsv animation">
+<img src="hsv.gif" align="right" width="300" hspace="40" vspace="20" alt="hsv animation">
 
 **I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.**
 
@@ -37,7 +37,7 @@ GPU: **Intel UHD 630** (integrated — no discrete GPU)
 
 <p align="center">
   <a href="https://discord.com/users/1109406163742769184">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48" alt="Discord">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="64" alt="Discord">
   </a>
 </p>
 
